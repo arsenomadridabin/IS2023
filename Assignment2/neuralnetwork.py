@@ -7,7 +7,6 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 
-
 def splitdataset(balance_data):
   
     # Separating the target variable
